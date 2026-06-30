@@ -35,5 +35,6 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript. It per
 - Calculation history
 
 **Your Name**
+Shreya panchal
 
-GitHub: https://github.com/your-username
+
